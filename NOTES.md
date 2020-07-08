@@ -1,7 +1,9 @@
 # Notes on Scalability
 ## Extra Links
 [Scaling Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc&t=1s)
+
 [Distributed Systems](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=0s)
+
 [The Paper Trail (Distributed Systems Blog)](https://www.the-paper-trail.org/)
 ## VPS vs Webhosted
 VPS (virtual private server)
