@@ -1,4 +1,8 @@
 # Notes on Scalability
+## Extra Links
+[Scaling Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc&t=1s)
+[Distributed Systems](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=0s)
+[The Paper Trail (Distributed Systems Blog)](https://www.the-paper-trail.org/)
 ## VPS vs Webhosted
 VPS (virtual private server)
 - you get a sectioned off VM rather than sharing resources with other people
@@ -21,12 +25,18 @@ How to balance the load?
 RAID0 (striping)
 - splitting data writes to each disk 
 - nice for performance
+
 RAID1 (data mirroring)
 - writing in parallel
 - data redundancy
+
 RAID10 (striping and redundancy)
 - both RAID0 and RAID1
+
 RAID5 (3+ drives, 1 used for redundancy)
+
 RAID6 (3+ drives, 2 used for redundancy)
 ## Database Replication
 For read heavy applications, it is often useful to have a master-slave relationship in which the slave is able to handle read requests while write requests go through the master.
+
+
