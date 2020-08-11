@@ -5,6 +5,8 @@
 [Distributed Systems](https://www.youtube.com/watch?v=Y6Ev8GIlbxc&t=0s)
 
 [The Paper Trail (Distributed Systems Blog)](https://www.the-paper-trail.org/)
+
+[Consistent Hashing in mem-cached client](https://www.mikeperham.com/2009/01/14/consistent-hashing-in-memcache-client/)
 ## VPS vs Webhosted
 VPS (virtual private server)
 - you get a sectioned off VM rather than sharing resources with other people
